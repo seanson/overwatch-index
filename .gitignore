@@ -1,0 +1,7 @@
+.env
+.client_secret.json
+.token.pickle
+results.json
+.DS_Store
+dist
+.vscode
