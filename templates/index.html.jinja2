@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>Overwatch Index</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ==" crossorigin="anonymous" />
 <style type="text/css">
     body > .ui.container {
@@ -11,6 +12,11 @@
   </style>
 </head>
 <body>
+<div class="ui inverted menu">
+    <a href="#" class="header item">
+      Overwatch Index
+    </a>
+</div>
 <div class="ui two column doubling stackable grid">
     <div class="row">
     </div>
@@ -31,19 +37,19 @@
         <div class="ui cards">
         {% for video in results["heroes"][current_hero]["videos"] %}
         {% set date = video["snippet"]["publishedAt"].split("T")[0] %}
-        <div class="ui raised card">
+        <a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
             <div class="image">
                 <img width="{{ video.snippet.thumbnails.high.width }}"
                      height="{{ video.snippet.thumbnails.high.height }}"
                      src="{{ video.snippet.thumbnails.high.url }}">
             </div>
             <div class="content">
-                <a class="header" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</a>
+                <span class="header">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</span>
                 <div class="meta">
                     <span class="date">{{ date }}</span>
                 </div>
             </div>
-        </div>
+        </a>
         {% endfor %}
         </div>
     </div>
