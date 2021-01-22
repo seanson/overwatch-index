@@ -49,7 +49,20 @@ for key, value in heroes.items():
     for match in value["matches"]:
         hero_match[match] = key
 
-comp_set = set(["qp", "bronze", "silver", "gold", "plat", "diamond"])
+def rank_to_colour(rank):
+    mapping = {
+        "qp": "blue",
+        "newbie": "blue",
+        "bronze": "brown",
+        "silver": "grey",
+        "gold": "yellow",
+        "plat": "teal",
+        "diamond": "white",
+        "masters": "black",
+    }
+    return mapping.get(rank, "black")
+
+comp_set = set(["qp", "newbie", "bronze", "silver", "gold", "plat", "diamond", "masters"])
 
 
 def parse_results():
@@ -93,11 +106,11 @@ def main():
         template = Template(template_file.read())
     with open("dist/index.html", "w") as html_file:
         print("Writing index.html")
-        html = template.render(results=results, current_hero="ana")
+        html = template.render(results=results, current_hero="ana", rank_to_colour=rank_to_colour)
         html_file.write(html)
     for current_hero in results["heroes"].keys():
         print(f"Writing {current_hero}.html")
-        html = template.render(results=results, current_hero=current_hero)
+        html = template.render(results=results, current_hero=current_hero, rank_to_colour=rank_to_colour)
         with open(f"dist/{current_hero}.html", "w") as html_file:
             html_file.write(html)
 

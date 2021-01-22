@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Overwatch Index</title>
+<title>Overwatch Coaching Index</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ==" crossorigin="anonymous" />
 <style type="text/css">
     body > .ui.container {
@@ -48,6 +48,12 @@
                 <div class="meta">
                     <span class="date">{{ date }}</span>
                 </div>
+            </div>
+            <div class="extra content">
+            {% for rank in video.comp %}
+                <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
+            {% endfor %}
+
             </div>
         </a>
         {% endfor %}
