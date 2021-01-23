@@ -44,32 +44,35 @@ heroes = {
     "zarya": {"name": "Zarya", "matches": ["personalbubble", "zarya"]},
     "zenyatta": {"name": "Zenyatta", "matches": ["zenyatta", "zen"]},
 }
+
+ranks = {
+    "qp": {"name": "Quick Play", "colour": "blue"},
+    "newbie": {"name": "Newbie", "colour": "blue"},
+    "bronze": {"name": "Bronze", "colour": "brown"},
+    "silver": {"name": "Silver", "colour": "grey"},
+    "gold": {"name": "Gold", "colour": "yellow"},
+    "plat": {"name": "Plat", "colour": "teal"},
+    "diamond": {"name": "Diamond", "colour": "white"},
+    "masters": {"name": "Masters", "colour": "black"},
+}
+
 hero_match = {}
 for key, value in heroes.items():
     for match in value["matches"]:
         hero_match[match] = key
 
-def rank_to_colour(rank):
-    mapping = {
-        "qp": "blue",
-        "newbie": "blue",
-        "bronze": "brown",
-        "silver": "grey",
-        "gold": "yellow",
-        "plat": "teal",
-        "diamond": "white",
-        "masters": "black",
-    }
-    return mapping.get(rank, "black")
 
-comp_set = set(["qp", "newbie", "bronze", "silver", "gold", "plat", "diamond", "masters"])
+def rank_to_colour(rank):
+    return ranks[rank].get("colour", "black")
+
+
+rank_set = set(ranks.keys())
 
 
 def parse_results():
     results = {}
     results["heroes"] = copy(heroes)
-    results["comps"] = {key: [] for key in comp_set}
-
+    results["ranks"] = copy(ranks)
     with open("results.json", "r") as results_file:
         base = json.load(results_file)
     for item in base:
@@ -85,18 +88,18 @@ def parse_results():
         )
         title_tags = set(title.split(" "))
         hero_tags = set()
-        comp_tags = comp_set.intersection(title_tags)
+        rank_tags = rank_set.intersection(title_tags)
         for tag in title_tags:
             if tag in hero_match:
                 hero_tags.add(hero_match[tag])
         item["heroes"] = hero_tags
-        item["comp"] = comp_tags
+        item["rank"] = rank_tags
         for hero in hero_tags:
             results["heroes"][hero].setdefault("videos", [])
             results["heroes"][hero]["videos"].append(item)
-        for comp in comp_tags:
-            results["comps"][comp].append(item)
-
+        for rank in rank_tags:
+            results["ranks"][rank].setdefault("videos", [])
+            results["ranks"][rank]["videos"].append(item)
     return results
 
 
@@ -104,14 +107,14 @@ def main():
     results = parse_results()
     with open("templates/index.html.jinja2", "r") as template_file:
         template = Template(template_file.read())
-    with open("dist/index.html", "w") as html_file:
-        print("Writing index.html")
-        html = template.render(results=results, current_hero="ana", rank_to_colour=rank_to_colour)
-        html_file.write(html)
-    for current_hero in results["heroes"].keys():
-        print(f"Writing {current_hero}.html")
-        html = template.render(results=results, current_hero=current_hero, rank_to_colour=rank_to_colour)
-        with open(f"dist/{current_hero}.html", "w") as html_file:
+    renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
+    pprint(results["ranks"]["newbie"])
+    for active in renders:
+        print(f"Writing {active}.html")
+        html = template.render(
+            results=results, active=active, rank_to_colour=rank_to_colour
+        )
+        with open(f"dist/{active}.html", "w") as html_file:
             html_file.write(html)
 
 

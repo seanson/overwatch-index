@@ -22,20 +22,42 @@
     </div>
     <div class="row">
     <div class="three wide column">
-        <div class="ui vertical menu">
+      <div class="ui vertical menu">
+        <div class="item">
+          Heroes
+          <div class="menu">
             {% for hero, data in results["heroes"].items() %}
-            {% if (data["videos"] | length) > 0%}
-            <a class="{% if hero == current_hero %}active {% endif %}item" href="{{ hero }}.html">
+            {% if (data["videos"] | length) > 0 %}
+            <a class="{% if hero == active %}active {% endif %}item" href="{{ hero }}.html">
             {{ data.name }}
             <div class="ui label">{{ data["videos"] | length }}</div>
             </a>
             {% endif %}
             {% endfor %}
+          </div>
         </div>
+        <div class="item">
+          Ranks
+          <div class="menu">
+            {% for rank, data in results["ranks"].items() %}
+            {% if  (data["videos"] | length) > 0 %}
+            <a class="{% if rank == active %}active {% endif %}item" href="{{ rank }}.html">
+            {{ data.name }}
+            <div class="ui label">{{ data["videos"] | length }}</div>
+            </a>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
     <div class="floated twelve wide column">
         <div class="ui cards">
-        {% for video in results["heroes"][current_hero]["videos"] %}
+        {% if active == "index" %}
+          Latest videos placeholder
+        {% else %}
+        {% if active in results["heroes"] %}
+        {% for video in results["heroes"][active]["videos"] %}
         {% set date = video["snippet"]["publishedAt"].split("T")[0] %}
         <a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
             <div class="image">
@@ -50,13 +72,37 @@
                 </div>
             </div>
             <div class="extra content">
-            {% for rank in video.comp %}
+            {% for rank in video.rank %}
                 <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
             {% endfor %}
 
             </div>
         </a>
         {% endfor %}
+        {% elif active in results["ranks"] %}
+        {% for video in results["ranks"][active]["videos"] %}
+        {% set date = video["snippet"]["publishedAt"].split("T")[0] %}        
+        <a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
+            <div class="image">
+                <img width="{{ video.snippet.thumbnails.high.width }}"
+                     height="{{ video.snippet.thumbnails.high.height }}"
+                     src="{{ video.snippet.thumbnails.high.url }}">
+            </div>
+            <div class="content">
+                <span class="header">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</span>
+                <div class="meta">
+                    <span class="date">{{ date }}</span>
+                </div>
+            </div>
+            <div class="extra content">
+            {% for rank in video.rank %}
+                <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
+            {% endfor %}
+            </div>
+        </a>
+        {% endfor %}
+        {% endif %}
+        {% endif %}
         </div>
     </div>
     </div>
