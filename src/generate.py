@@ -7,6 +7,7 @@ import os
 from copy import copy
 from pprint import pprint
 from jinja2 import Template
+from datetime import datetime
 
 heroes = {
     "ana": {"name": "Ana", "matches": ["ana"]},
@@ -108,6 +109,7 @@ def main():
     results = parse_results()
     with open("templates/index.html.jinja2", "r") as template_file:
         template = Template(template_file.read())
+        template.globals['now'] = datetime.now().strftime("%Y-%m-%d %H:%M")
     renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
     if not os.path.isdir('dist'):
         os.mkdir('dist')
