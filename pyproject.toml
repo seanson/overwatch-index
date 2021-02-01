@@ -5,7 +5,7 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 google-api-python-client = "^1.12.8"
 google-auth-oauthlib = "^0.4.2"
 google-auth-httplib2 = "^0.0.4"
