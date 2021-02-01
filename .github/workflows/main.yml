@@ -29,5 +29,5 @@ jobs:
       - name: Run Fetch command
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          CHANNEL_ID: UCcX7pakiWyBvFq15Vtb87wg #temporaltv
+          PLAYLIST_ID: PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr # 'pleb vod reviews'
         run: poetry run python src/fetch.py
