@@ -31,3 +31,7 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           PLAYLIST_ID: PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr # 'pleb vod reviews'
         run: poetry run python src/fetch.py
+      - name: Generate static HTML
+        run: poetry run python src/generate.py
+      - name: Publish to GHP
+        run: ghp-import -p dist
