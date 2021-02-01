@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import json
+import os
 
 from copy import copy
 from pprint import pprint
@@ -108,7 +109,8 @@ def main():
     with open("templates/index.html.jinja2", "r") as template_file:
         template = Template(template_file.read())
     renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
-    pprint(results["ranks"]["newbie"])
+    if not os.path.isdir('dist'):
+        os.mkdir('dist')
     for active in renders:
         print(f"Writing {active}.html")
         html = template.render(
