@@ -34,4 +34,4 @@ jobs:
       - name: Generate static HTML
         run: poetry run python src/generate.py
       - name: Publish to GHP
-        run: ghp-import -p dist
+        run: poetry run ghp-import -p dist
