@@ -104,9 +104,20 @@ def parse_results():
             results["ranks"][rank]["videos"].append(item)
     return results
 
+def generate_search_data(results):
+    data = []
+    for hero, hero_data in results["heroes"].items():
+        data += [
+            {
+            "title": item["snippet"]["title"],
+            "url": f"{hero}.html",
+        } for item in hero_data.get("videos", [])
+        ]
+    return data
 
 def main():
     results = parse_results()
+    search_data = generate_search_data(results)
     with open("templates/index.html.jinja2", "r") as template_file:
         template = Template(template_file.read())
         template.globals['now'] = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -116,7 +127,7 @@ def main():
     for active in renders:
         print(f"Writing {active}.html")
         html = template.render(
-            results=results, active=active, rank_to_colour=rank_to_colour
+            results=results, active=active, rank_to_colour=rank_to_colour, search_data=search_data
         )
         with open(f"dist/{active}.html", "w") as html_file:
             html_file.write(html)
