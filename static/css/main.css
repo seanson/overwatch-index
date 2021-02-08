@@ -23,3 +23,15 @@ body {
 .intro {
   font-size: 1.5em;
 }
+
+.search-bar {
+  width: 500px;
+}
+
+.search-bar > .input {
+  width: 100%;
+}
+
+.ui.search > .results {
+  width: 500px;
+}
