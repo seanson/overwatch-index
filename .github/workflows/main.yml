@@ -35,7 +35,7 @@ jobs:
           PLAYLIST_ID: PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr # 'pleb vod reviews'
         run: poetry run python src/fetch.py
       - name: Generate static HTML
-        run: poetry run python src/generate.py
+        run: poetry run python src/generate.py && cp -rv static dist/static
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
