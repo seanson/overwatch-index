@@ -1,4 +1,5 @@
 WORKING_DIR := $(shell pwd)
+WEBSITE_CNAME := overwatch.website
 
 .DEFAULT_GOAL := docker-test
 
@@ -11,7 +12,7 @@ generate:: ## Generates the static HTML
 
 publish:: generate ## Publish content to the gh-pages branch
 		@git fetch origin gh-pages:gh-pages -v
-		@poetry run ghp-import -p dist
+		@poetry run ghp-import -p dist -c ${WEBSITE_CNAME}
 
 fetch:: ## Pulls down the newest set of content
 		@poetry run python src/fetch.py
