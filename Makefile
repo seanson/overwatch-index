@@ -10,6 +10,7 @@ generate:: ## Generates the static HTML
 		@cp -rv static dist/static
 
 publish:: generate ## Publish content to the gh-pages branch
+		@git fetch origin gh-pages:gh-pages -v
 		@poetry run ghp-import -p dist
 
 fetch:: ## Pulls down the newest set of content
