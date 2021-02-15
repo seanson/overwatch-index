@@ -21,21 +21,24 @@
     </div>
     </div>
 </div>
-<div class="ui two column doubling stackable grid">
+<div class="ui two column doubling grid">
     <div class="row">
     </div>
     <div class="row">
-    <div class="three wide column">
-      <div class="ui vertical menu">
+    <div class="two wide column min200">
+      <div class="ui vertical menu compact">
         <div class="item">
           Heroes
           <div class="menu">
             {% for hero, data in results["heroes"].items() %}
             {% if (data["videos"] | length) > 0 %}
-            <a class="{% if hero == active %}active {% endif %}item" href="{{ hero }}.html">
-            {{ data.name }}
+            <div class="{% if hero == active %}active {% endif %} item">
+              <a href="{{ hero }}.html">
+              <i class="{{ data.icon }} icon"></i>
+                {{ data.name }}
+              </a>
             <div class="ui label">{{ data["videos"] | length }}</div>
-            </a>
+            </div>
             {% endif %}
             {% endfor %}
           </div>
@@ -55,7 +58,7 @@
         </div>
       </div>
     </div>
-    <div class="floated twelve wide column">
+    <div class="fourteen wide column">
         <div class="ui cards">
         {% if active == "index" %}
           <div class="container fluid">

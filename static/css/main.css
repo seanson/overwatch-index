@@ -35,3 +35,7 @@ body {
 .ui.search > .results {
   width: 500px;
 }
+
+.min200 {
+  min-width: 200px;
+}
