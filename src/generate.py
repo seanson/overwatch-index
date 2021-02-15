@@ -124,7 +124,7 @@ def sort_by_time(results):
     all_videos = [data.get("videos", []) for data in results["heroes"].values()]
     # Magic flatten incantiation
     all_videos = [item for sublist in all_videos for item in sublist]
-    all_videos.sort(key=lambda d: d["snippet"]["publishedAt"])
+    all_videos.sort(key=lambda d: d["snippet"]["publishedAt"], reverse=True)
     return all_videos
 
 
