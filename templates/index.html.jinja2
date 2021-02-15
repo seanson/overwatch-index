@@ -1,3 +1,4 @@
+{% from 'video_card.html.jinja2' import video_card %}
 <html>
 <head>
 <title>Overwatch Coaching Index</title>
@@ -7,7 +8,7 @@
 <body>
 <div class="main">
 <div class="ui inverted menu">
-    <a href="#" class="header item">
+    <a href="./" class="header item">
       Overwatch Index
     </a>
     <div class="item">
@@ -64,53 +65,21 @@
           This is a page in progress for helping Overwatch players find coaching and VOD reviews tailored to their specific hero or competitive rank.
           It is currently a very early work in progress so content and functionality will be limited.
           Updates are currently generated every four hours.
-          </h3>
+          <div class="ui horizontal divider">
+          <h3>Latest Videos</h3>
           </div>
+        </div>
+        {% for video in sorted_results[0:20] %}
+        {{ video_card(video) }}
+        {% endfor %}
         {% else %}
         {% if active in results["heroes"] %}
         {% for video in results["heroes"][active]["videos"] %}
-        {% set date = video["snippet"]["publishedAt"].split("T")[0] %}
-        <a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
-            <div class="image">
-                <img width="{{ video.snippet.thumbnails.high.width }}"
-                     height="{{ video.snippet.thumbnails.high.height }}"
-                     src="{{ video.snippet.thumbnails.high.url }}">
-            </div>
-            <div class="content">
-                <span class="header">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</span>
-                <div class="meta">
-                    <span class="date">{{ date }}</span>
-                </div>
-            </div>
-            <div class="extra content">
-            {% for rank in video.rank %}
-                <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
-            {% endfor %}
-
-            </div>
-        </a>
+        {{ video_card(video) }}
         {% endfor %}
         {% elif active in results["ranks"] %}
         {% for video in results["ranks"][active]["videos"] %}
-        {% set date = video["snippet"]["publishedAt"].split("T")[0] %}
-        <a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
-            <div class="image">
-                <img width="{{ video.snippet.thumbnails.high.width }}"
-                     height="{{ video.snippet.thumbnails.high.height }}"
-                     src="{{ video.snippet.thumbnails.high.url }}">
-            </div>
-            <div class="content">
-                <span class="header">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</span>
-                <div class="meta">
-                    <span class="date">{{ date }}</span>
-                </div>
-            </div>
-            <div class="extra content">
-            {% for rank in video.rank %}
-                <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
-            {% endfor %}
-            </div>
-        </a>
+        {{ video_card(video) }}
         {% endfor %}
         {% endif %}
         {% endif %}

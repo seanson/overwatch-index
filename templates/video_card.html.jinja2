@@ -1,0 +1,22 @@
+{% macro video_card(video) -%}
+{% set date = video["snippet"]["publishedAt"].split("T")[0] %}
+<a class="ui raised card" target="_blank" href="https://www.youtube.com/watch?v={{ video.snippet.resourceId.videoId }}">
+    <div class="image">
+        <img width="{{ video.snippet.thumbnails.high.width }}"
+                height="{{ video.snippet.thumbnails.high.height }}"
+                src="{{ video.snippet.thumbnails.high.url }}">
+    </div>
+    <div class="content">
+        <span class="header">{{ video.snippet.channelTitle }} - {{ video.snippet.title }}</span>
+        <div class="meta">
+            <span class="date">{{ date }}</span>
+        </div>
+    </div>
+    <div class="extra content">
+    {% for rank in video.rank %}
+        <div class="ui label {{ rank_to_colour(rank) }}"><i class="cubes icon"></i>{{ rank }}</div>
+    {% endfor %}
+
+    </div>
+</a>
+{%- endmacro %}

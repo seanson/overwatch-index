@@ -5,9 +5,9 @@ import json
 import os
 
 from copy import copy
-from pprint import pprint
 from jinja2 import Template
 from datetime import datetime
+from jinja2 import Environment, FileSystemLoader
 
 heroes = {
     "ana": {"name": "Ana", "matches": ["ana"]},
@@ -56,6 +56,7 @@ ranks = {
     "plat": {"name": "Plat", "colour": "teal"},
     "diamond": {"name": "Diamond", "colour": "white"},
     "masters": {"name": "Masters", "colour": "black"},
+    "grandmasters": {"name": "GrandMasters", "colour": "black"},
 }
 
 hero_match = {}
@@ -104,30 +105,48 @@ def parse_results():
             results["ranks"][rank]["videos"].append(item)
     return results
 
+
 def generate_search_data(results):
     data = []
     for hero, hero_data in results["heroes"].items():
         data += [
             {
-            "title": item["snippet"]["title"],
-            "url": f"{hero}.html",
-        } for item in hero_data.get("videos", [])
+                "title": item["snippet"]["title"],
+                "url": f"{hero}.html",
+            }
+            for item in hero_data.get("videos", [])
         ]
     return data
+
+
+def sort_by_time(results):
+    all_videos = [data.get("videos", []) for data in results["heroes"].values()]
+    # Magic flatten incantiation
+    all_videos = [item for sublist in all_videos for item in sublist]
+    all_videos.sort(key=lambda d: d["snippet"]["publishedAt"])
+    return all_videos
+
 
 def main():
     results = parse_results()
     search_data = generate_search_data(results)
-    with open("templates/index.html.jinja2", "r") as template_file:
-        template = Template(template_file.read())
-        template.globals['now'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+    sorted_results = sort_by_time(results)
+    print(sorted_results[0:2])
+    env = Environment(loader=FileSystemLoader("templates/"))
+    template = env.get_template("index.html.jinja2")
+    template.globals["now"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+    template.globals["rank_to_colour"] = rank_to_colour
+
     renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
-    if not os.path.isdir('dist'):
-        os.mkdir('dist')
+    if not os.path.isdir("dist"):
+        os.mkdir("dist")
     for active in renders:
         print(f"Writing {active}.html")
         html = template.render(
-            results=results, active=active, rank_to_colour=rank_to_colour, search_data=search_data
+            results=results,
+            active=active,
+            search_data=search_data,
+            sorted_results=sorted_results,
         )
         with open(f"dist/{active}.html", "w") as html_file:
             html_file.write(html)
