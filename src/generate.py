@@ -75,7 +75,7 @@ heroes = {
         "name": "Pharah",
         "icon": "rocket",
         "class": "dps",
-        "matches": ["pharah"],
+        "matches": ["pharah", "phara"],
     },
     "reaper": {
         "name": "Reaper",
