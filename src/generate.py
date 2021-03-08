@@ -37,7 +37,7 @@ heroes = {
         "name": "Brigitte",
         "icon": "flag outline",
         "class": "support",
-        "matches": ["brig", "brigitte"],
+        "matches": ["brig", "brigitte", "brigs"],
     },
     "dva": {
         "name": "D.va",
@@ -143,7 +143,7 @@ heroes = {
         "name": "Zarya",
         "icon": "arrow alt circle right",
         "class": "tank",
-        "matches": ["personalbubble", "zarya"],
+        "matches": ["personalbubble", "zarya", "beam"],
     },
     "zenyatta": {
         "name": "Zenyatta",
@@ -194,8 +194,13 @@ def parse_results():
             .replace("soldier: 76", "soldier:76")
             .replace("personal bubble", "personalbubble")
             .replace("quick play", "qp")
-            .replace("gm", "grandmasters")
             .replace("'s", "")
+            .replace("?", "")
+            .replace("!", "")
+            .replace(",", "")
+            .replace(" gm ", " grandmasters ")
+            .replace("gm ", "grandmasters ")
+            .replace(" gm", "grandmasters ")
         )
         title_tags = set(title.split(" "))
         hero_tags = set()
@@ -203,6 +208,11 @@ def parse_results():
         for tag in title_tags:
             if tag in hero_match:
                 hero_tags.add(hero_match[tag])
+        if not hero_tags:
+            print(f"Warning: No hero tags found in {title_tags}")
+        if not rank_tags:
+            print(f"Warning: No rank tags found in {title_tags}")
+
         item["heroes"] = hero_tags
         item["rank"] = rank_tags
         for hero in hero_tags:
