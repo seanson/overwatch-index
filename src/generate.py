@@ -8,6 +8,14 @@ from copy import copy
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
+
+class SetEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, set):
+            return list(obj)
+        return json.JSONEncoder.default(self, obj)
+
+
 heroes = {
     "ana": {
         "name": "Ana",
@@ -216,7 +224,6 @@ def parse_results():
         item["heroes"] = hero_tags
         item["rank"] = rank_tags
         for hero in hero_tags:
-            results["heroes"][hero].setdefault("videos", [])
             results["heroes"][hero]["videos"].append(item)
         for rank in rank_tags:
             results["ranks"][rank].setdefault("videos", [])
@@ -257,6 +264,8 @@ def main():
     renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
     if not os.path.isdir("dist"):
         os.mkdir("dist")
+    with open("hero_results.json", "w") as json_file:
+        json.dump(results, json_file, cls=SetEncoder)
     for active in renders:
         print(f"Writing {active}.html")
         html = template.render(

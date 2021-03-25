@@ -4,5 +4,6 @@ __pycache__
 .client_secret.json
 .token.pickle
 results.json
+hero_results.json
 dist
 .vscode
