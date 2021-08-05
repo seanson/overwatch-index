@@ -1,7 +1,7 @@
 const TITLE = "Overwatch Index"
 const DESCRIPTION = "Overwatch Index is a service for helping players find coaching and VOD reviews tailored to their specific hero or competitive rank."
 const URL = "https://overwatch.website"
-const PREVIEW_IMAGE = `${URL}/static/images/site_preview.jpg`
+const PREVIEW_IMAGE = `${URL}/images/site_preview.jpg`
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
