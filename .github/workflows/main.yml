@@ -37,8 +37,8 @@ jobs:
       - name: Generate JSON
         run: poetry run python src/generate.py  
       - name: Generate Vue Static HTML
-        run: poetry run python src/generate.py
-        working-directory: npm install && npm run generate
+        run: npm install && npm run generate
+        working-directory: overwatch-index
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
