@@ -21,11 +21,9 @@
               >{{ video['snippet']['publishedAt'].split('T')[0] }} - <b>{{ video.snippet.channelTitle }}</b></small
             >
           </a>
-          <br />
         </b-card-text>
       </b-card-body>
-
-      <template #footer>
+      <b-card-footer style="min-height: 33px; max-height: 3.5rem" footer-class="align-content-center py-1">
         <span v-for="rank in video.rank" :key="rank" class="px-0">
           <span v-for="hero in video.heroes" :key="hero" class="px-1">
             <b-badge v-if="hero" :to="`/heroes?hero=${hero}&rank=${rank}`"
@@ -33,7 +31,7 @@
             >
           </span>
         </span>
-      </template>
+      </b-card-footer>
     </b-card>
   </b-card-group>
 </template>
