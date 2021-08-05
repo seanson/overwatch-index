@@ -8,146 +8,162 @@ from copy import copy
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
+
+class SetEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, set):
+            return list(obj)
+        return json.JSONEncoder.default(self, obj)
+
+
 heroes = {
     "ana": {
         "name": "Ana",
-        "icon": "syringe",
+        "icon": ["fas", "syringe"],
         "class": "support",
         "matches": ["ana"],
     },
     "ashe": {
         "name": "Ashe",
-        "icon": "bullseye",
+        "icon": ["fas", "bullseye"],
         "class": "dps",
         "matches": ["ashe"],
     },
     "baptiste": {
         "name": "Baptiste",
-        "icon": "clone outline",
+        "icon": ["fa", "square"],
         "class": "support",
         "matches": ["baptiste", "bap"],
     },
     "bastion": {
         "name": "Bastion",
-        "icon": "whmcs",
+        "icon": ["fab", "whmcs"],
         "class": "dps",
         "matches": ["bastion"],
     },
     "brigitte": {
         "name": "Brigitte",
-        "icon": "flag outline",
+        "icon": ["fas", "flag"],
         "class": "support",
         "matches": ["brig", "brigitte", "brigs"],
     },
     "dva": {
         "name": "D.va",
-        "icon": "hand peace outline",
+        "icon": ["fas", "hand-peace"],
         "class": "tank",
         "matches": ["dva", "d.va"],
     },
     "doomfist": {
         "name": "Doomfist",
-        "icon": "hand rock",
+        "icon": ["fas", "hand-rock"],
         "class": "dps",
         "matches": ["doom", "fist", "doomfist"],
     },
-    "echo": {"name": "Echo", "icon": "clone outline", "class": "dps", "matches": ["echo"]},
-    "genji": {"name": "Genji", "icon": "star outline", "class": "dps", "matches": ["genji"]},
-    "hanzo": {"name": "Hanzo", "icon": "redo", "class": "dps", "matches": ["hanzo"]},
+    "echo": {
+        "name": "Echo",
+        "icon": ["fas", "clone"],
+        "class": "dps",
+        "matches": ["echo"]},
+    "genji": {
+        "name": "Genji",
+        "icon": ["fas", "star"],
+        "class": "dps", "matches": ["genji"]
+        },
+    "hanzo": {"name": "Hanzo", "icon": ["fas", "redo"], "class": "dps", "matches": ["hanzo"]},
     "junkrat": {
         "name": "Junkrat",
-        "icon": "bomb",
+        "icon": ["fas", "bomb"],
         "class": "dps",
         "matches": ["junk", "rat", "junkrat"],
     },
-    "lucio": {"name": "Lucio", "icon": "music", "class": "support", "matches": ["lucio"]},
+    "lucio": {"name": "Lucio", "icon": ["fas", "music"], "class": "support", "matches": ["lucio"]},
     "mccree": {
         "name": "McCree",
-        "icon": "clock outline",
+        "icon": ["fas", "clock"],
         "class": "dps",
         "matches": ["mccree"],
     },
-    "mei": {"name": "Mei", "icon": "snowflake", "class": "dps", "matches": ["mei"]},
-    "mercy": {"name": "Mercy", "icon": "medkit", "class": "support", "matches": ["mercy"]},
-    "moira": {"name": "Moira", "icon": "circle outline", "class": "support", "matches": ["moira"]},
-    "orisa": {"name": "Orisa", "icon": "sticker mule", "class": "tank", "matches": ["orisa"]},
+    "mei": {"name": "Mei", "icon": ["fas", "snowflake"], "class": "dps", "matches": ["mei"]},
+    "mercy": {"name": "Mercy", "icon": ["fas", "medkit"], "class": "support", "matches": ["mercy"]},
+    "moira": {"name": "Moira", "icon": ["fas", "circle"], "class": "support", "matches": ["moira"]},
+    "orisa": {"name": "Orisa", "icon": ["fab", "sticker-mule"], "class": "tank", "matches": ["orisa"]},
     "pharah": {
         "name": "Pharah",
-        "icon": "rocket",
+        "icon": ["fas", "rocket"],
         "class": "dps",
         "matches": ["pharah", "phara"],
     },
     "reaper": {
         "name": "Reaper",
-        "icon": "cloudversify",
+        "icon": ["fab", "cloudversify"],
         "class": "dps",
         "matches": ["reaper"],
     },
     "reinhardt": {
         "name": "Reinhardt",
-        "icon": "shield",
+        "icon": ["fas", "shield-alt"],
         "class": "tank",
         "matches": ["reinhardt", "rein"],
     },
     "roadhog": {
         "name": "Roadhog",
-        "icon": "linkify",
+        "icon": ["fas", "link"],
         "class": "tank",
         "matches": ["roadhog", "hog"],
     },
-    "sigma": {"name": "Sigma", "icon": "socks", "class": "tank", "matches": ["sigma"]},
-    "soldier": {"name": "Soldier: 76", "icon": "dna", "class": "dps", "matches": ["soldier", "soldier:76"]},
+    "sigma": {"name": "Sigma", "icon": ["fas", "socks"], "class": "tank", "matches": ["sigma"]},
+    "soldier": {"name": "Soldier: 76", "icon": ["fas", "dna"], "class": "dps", "matches": ["soldier", "soldier:76"]},
     "sombra": {
         "name": "Sombra",
-        "icon": "bug",
+        "icon": ["fas", "bug"],
         "class": "dps",
         "matches": ["sombra"],
     },
     "symmetra": {
         "name": "Symmetra",
-        "icon": "ethereum",
+        "icon": ["fab", "ethereum"],
         "class": "dps",
         "matches": ["symmetra"],
     },
     "torbjorn": {
         "name": "Torbjorn",
-        "icon": "hammer",
+        "icon": ["fas", "hammer"],
         "class": "dps",
         "matches": ["torb", "torbjorn"],
     },
     "tracer": {
         "name": "Tracer",
-        "icon": "history",
+        "icon": ["fas", "history"],
         "class": "dps",
         "matches": ["tracer"],
     },
     "widowmaker": {
         "name": "Widowmaker",
-        "icon": "eye",
+        "icon": ["fas", "eye"],
         "class": "dps",
         "matches": ["widow", "widowmaker"],
     },
     "winston": {
         "name": "Winston",
-        "icon": "sign language",
+        "icon": ["fas", "sign-language"],
         "class": "tank",
         "matches": ["winston", "ape", "monkey", "bubble"],
     },
     "wreckingball": {
         "name": "Wrecking Ball",
-        "icon": "bowling ball",
+        "icon": ["fas", "bowling-ball"],
         "class": "tank",
         "matches": ["ball", "hammond", "hamster"],
     },
     "zarya": {
         "name": "Zarya",
-        "icon": "arrow alt circle right",
+        "icon": ["fas", "arrow-alt-circle-right"],
         "class": "tank",
         "matches": ["personalbubble", "zarya", "beam"],
     },
     "zenyatta": {
         "name": "Zenyatta",
-        "icon": "hand pointer outline",
+        "icon": ["fas", "hand-pointer"],
         "class": "support",
         "matches": ["zenyatta", "zen"],
     },
@@ -257,16 +273,10 @@ def main():
     renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
     if not os.path.isdir("dist"):
         os.mkdir("dist")
-    for active in renders:
-        print(f"Writing {active}.html")
-        html = template.render(
-            results=results,
-            active=active,
-            search_data=search_data,
-            sorted_results=sorted_results,
-        )
-        with open(f"dist/{active}.html", "w") as html_file:
-            html_file.write(html)
+    with open("hero_results.json", "w") as json_file:
+        json.dump(results, json_file, indent=2, cls=SetEncoder)
+    with open("sorted_results.json", "w") as json_file:
+        json.dump(sorted_results, json_file, indent=2, cls=SetEncoder)
 
 
 main()

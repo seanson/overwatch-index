@@ -34,11 +34,14 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           PLAYLIST_ID: PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr # 'pleb vod reviews'
         run: poetry run python src/fetch.py
-      - name: Generate static HTML
-        run: poetry run python src/generate.py && cp -rv static dist/static
+      - name: Generate JSON
+        run: poetry run python src/generate.py  
+      - name: Generate Vue Static HTML
+        run: poetry run python src/generate.py
+        working-directory: npm install && npm run generate
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./overwatch-index/dist
           cname: overwatch.website
