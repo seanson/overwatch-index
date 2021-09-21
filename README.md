@@ -1,6 +1,6 @@
 # overwatch-index
 
-[Overwatch Index][https://seanson.github.com/overwatch-index]
+[Overwatch Index](https://seanson.github.com/overwatch-index)
 
 This is a project for generating indexes of YouTube Overwatch gameplay and tagging them with the appropriate hero, rank, etc.
 
