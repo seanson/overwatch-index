@@ -77,11 +77,11 @@ heroes = {
         "matches": ["junk", "rat", "junkrat"],
     },
     "lucio": {"name": "Lucio", "icon": ["fas", "music"], "class": "support", "matches": ["lucio"]},
-    "mccree": {
-        "name": "McCree",
+    "cassidy": {
+        "name": "Cassidy",
         "icon": ["fas", "clock"],
         "class": "dps",
-        "matches": ["mccree"],
+        "matches": ["mccree", "cree", "cass", "cassidy"],
     },
     "mei": {"name": "Mei", "icon": ["fas", "snowflake"], "class": "dps", "matches": ["mei"]},
     "mercy": {"name": "Mercy", "icon": ["fas", "medkit"], "class": "support", "matches": ["mercy"]},
