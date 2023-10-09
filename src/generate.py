@@ -195,11 +195,11 @@ def rank_to_colour(rank):
 rank_set = set(ranks.keys())
 
 
-def parse_results():
+def parse_results(results_path):
     results = {}
     results["heroes"] = copy(heroes)
     results["ranks"] = copy(ranks)
-    with open("results.json", "r") as results_file:
+    with open(results_path, "r") as results_file:
         base = json.load(results_file)
     for item in base:
         title = (
@@ -262,7 +262,8 @@ def sort_by_time(results):
 
 
 def main():
-    results = parse_results()
+    results_path = os.environ.get("YOUTUBE_RESULTS_JSON", "results.json")
+    results = parse_results(results_path)
     search_data = generate_search_data(results)
     sorted_results = sort_by_time(results)
     env = Environment(loader=FileSystemLoader("templates/"))
