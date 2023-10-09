@@ -1,0 +1,3569 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fFWILTCkMIuh4jBdRl8L9kZvgiM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci41QzVGRDlCNTVFRDcxOTU2",
+    "snippet": {
+      "publishedAt": "2023-05-17T03:12:00Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Ana Review",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I9PldA8g4mc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I9PldA8g4mc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I9PldA8g4mc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I9PldA8g4mc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I9PldA8g4mc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 982,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I9PldA8g4mc"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "TXjEX36WaUoG2mfoo5amiYoYffw",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xNEQ4QzZCNThFNTMxOTY4",
+    "snippet": {
+      "publishedAt": "2023-04-03T18:06:43Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold/Plat Support Duo Review",
+      "description": "Twitch: \nTwitter: \nTemporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ah_630hv8w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ah_630hv8w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ah_630hv8w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ah_630hv8w4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ah_630hv8w4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 981,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ah_630hv8w4"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jhn1FcMWN1cCmcQAK6ViJ7jZ5FY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43NkJFQTEwMkMxOEY2RkEw",
+    "snippet": {
+      "publishedAt": "2023-03-19T20:50:33Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Tracer Review",
+      "description": "Twitch: \nTwitter: \nTemporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DMuSYIZXFTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DMuSYIZXFTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DMuSYIZXFTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DMuSYIZXFTk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DMuSYIZXFTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 980,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DMuSYIZXFTk"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5GKIsNIgCIumxClWZF_d6NLeCCo",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5DQjY1MDk5N0U0MEY1QjM2",
+    "snippet": {
+      "publishedAt": "2023-03-17T21:52:04Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Ana Review",
+      "description": "Twitch: \nTwitter: \nTemporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z5KEsoDAoik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z5KEsoDAoik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z5KEsoDAoik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z5KEsoDAoik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z5KEsoDAoik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 979,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z5KEsoDAoik"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "YTzIlrrXzGoCLioYtWUqNuSA0M0",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GQjNFQTVFQjExNjBCQTQx",
+    "snippet": {
+      "publishedAt": "2023-02-08T18:57:02Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Ana Review Rotate Up The Flanks",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O3r4DnlwpWc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O3r4DnlwpWc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O3r4DnlwpWc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O3r4DnlwpWc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O3r4DnlwpWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 978,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "O3r4DnlwpWc"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "IUC1X5JnmCXH57lZUWTIdpDfnYY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4wNzM3OUI5RjJFOEVCRTAx",
+    "snippet": {
+      "publishedAt": "2022-10-17T17:59:56Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond DVA Zarya Review",
+      "description": "Twitch: \nTwitter: \nTemporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gIx2mLp184I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gIx2mLp184I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gIx2mLp184I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gIx2mLp184I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gIx2mLp184I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 977,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gIx2mLp184I"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "tbh8xjOAEjoritzfcwB9JJEZXfg",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zQ0E3QTI4N0NGQTlCMEUx",
+    "snippet": {
+      "publishedAt": "2022-09-07T17:37:10Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Genji Review",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gM7SOT-f2v8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gM7SOT-f2v8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gM7SOT-f2v8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gM7SOT-f2v8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gM7SOT-f2v8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 976,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gM7SOT-f2v8"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "101hx_w5eN4htMJjLECBWlSUD5w",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci45Q0FGMkE1Rjk3NUQ4MkJG",
+    "snippet": {
+      "publishedAt": "2022-08-27T03:21:01Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Tracer Sym Cass Review",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bEK3Z1j_oro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bEK3Z1j_oro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bEK3Z1j_oro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bEK3Z1j_oro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bEK3Z1j_oro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 975,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bEK3Z1j_oro"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "PYD9WMeYLkgBSPC0s_AyjMrm5Dk",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yMkY1OTQzQkJFMUQxN0RE",
+    "snippet": {
+      "publishedAt": "2022-07-31T22:32:19Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Scouting WINS Diamond Winston",
+      "description": "Twitch: \nTwitter: \nTemporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wkACd0igz4U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wkACd0igz4U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wkACd0igz4U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wkACd0igz4U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wkACd0igz4U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 974,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wkACd0igz4U"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "QcY9_fOXbCwkh4W7CGjOVC0HHMQ",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4wN0UwMzRERDc2MTlDMTRB",
+    "snippet": {
+      "publishedAt": "2022-07-24T00:54:34Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Winston Review",
+      "description": "Twitch: \nTwitter: ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PjKFDghaddo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PjKFDghaddo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PjKFDghaddo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PjKFDghaddo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PjKFDghaddo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 973,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PjKFDghaddo"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5a0X2MQ2EL2WM3_jTm1cKw6UOEA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5DOEJGNjk1RkFFQjVGNzY5",
+    "snippet": {
+      "publishedAt": "2022-05-23T07:09:38Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Sigma Review",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ePiM7JUdpzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ePiM7JUdpzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ePiM7JUdpzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ePiM7JUdpzU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ePiM7JUdpzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 972,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ePiM7JUdpzU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "E_XWy5l2mcT4_exlOHXeWGU1Ie4",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43QjhFMjU5MUFBODYyOTg3",
+    "snippet": {
+      "publishedAt": "2022-04-19T20:33:49Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold DVA Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N6ikhW7bnWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N6ikhW7bnWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N6ikhW7bnWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N6ikhW7bnWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N6ikhW7bnWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 971,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N6ikhW7bnWE"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "dXzVZ8cRey_f0x2P90TWZpdQzcU",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5CNjJEQzJGMDU2MTg2NEYx",
+    "snippet": {
+      "publishedAt": "2022-04-19T04:27:21Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "That's A Hard Counter Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m2iiRJYsFKk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m2iiRJYsFKk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m2iiRJYsFKk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m2iiRJYsFKk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m2iiRJYsFKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 970,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m2iiRJYsFKk"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Z2PxTmnZDg-CQSeijrT1-saDp2c",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci40QTNGRjIwRThBQjE2RDZF",
+    "snippet": {
+      "publishedAt": "2022-04-18T23:02:32Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Silver Bap Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eRRrQ5Sl-NQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eRRrQ5Sl-NQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eRRrQ5Sl-NQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eRRrQ5Sl-NQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eRRrQ5Sl-NQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 969,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eRRrQ5Sl-NQ"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "oAfOh8iJBC00GIc9aw8HY_H5rlE",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci45MjE0QkE1MUM0QjEyREM2",
+    "snippet": {
+      "publishedAt": "2022-04-17T04:01:46Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Masters Tracer Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2yIHwOg5cIc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2yIHwOg5cIc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2yIHwOg5cIc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2yIHwOg5cIc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 968,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2yIHwOg5cIc"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "7Ltw7wK9bwAdjL1gVbRWj2uLmQc",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5FQUM2QjdFMEQzQUU1MDMw",
+    "snippet": {
+      "publishedAt": "2022-04-16T20:02:54Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Bronze Mercy/Moira Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F-OQ6WxMtR8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F-OQ6WxMtR8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F-OQ6WxMtR8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F-OQ6WxMtR8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F-OQ6WxMtR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 967,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "F-OQ6WxMtR8"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ga8gXStpG3vzV2Fv8gotED2j1aY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci44OUFFN0YyQzhBN0I1NzY4",
+    "snippet": {
+      "publishedAt": "2022-04-12T05:51:56Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Ball Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dCicYxm8Gf8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dCicYxm8Gf8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dCicYxm8Gf8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dCicYxm8Gf8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dCicYxm8Gf8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 966,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dCicYxm8Gf8"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1e03WXHgJvkwIljlFSO7XbpnugM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43RDlCNUY0RDE3RkVCMzEx",
+    "snippet": {
+      "publishedAt": "2022-04-12T02:13:01Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Ball Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgzhsVXZngY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgzhsVXZngY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgzhsVXZngY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jgzhsVXZngY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jgzhsVXZngY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 965,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jgzhsVXZngY"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "UEbSM_YqvNQFGsHXA8Z_94PmOB4",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43NjIzMjk0NkRDOUE1QjJF",
+    "snippet": {
+      "publishedAt": "2022-04-11T20:30:32Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Orisa Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uoy-qa-xpUs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uoy-qa-xpUs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uoy-qa-xpUs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Uoy-qa-xpUs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Uoy-qa-xpUs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 964,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Uoy-qa-xpUs"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jrQQU-Vbhu8abOmI1CgAmUxQMjA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci44RjA1M0Y4RjQwNEEzMEI2",
+    "snippet": {
+      "publishedAt": "2022-04-11T20:28:19Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Silver Sigma Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ew4QuvNEMFE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ew4QuvNEMFE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ew4QuvNEMFE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ew4QuvNEMFE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ew4QuvNEMFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 963,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ew4QuvNEMFE"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "PSXkctrRk7t_dHi_B_Ip0XAv49I",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci45NzQ1RkY0NjdBM0NENTEx",
+    "snippet": {
+      "publishedAt": "2022-04-07T22:03:21Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Winston Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zd6y2Gm4J6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zd6y2Gm4J6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zd6y2Gm4J6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zd6y2Gm4J6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zd6y2Gm4J6Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 962,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zd6y2Gm4J6Y"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "QMjVjyOnv1W4-E7-Rl0SG3ov97g",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5DQkJCQzRCQTI1OThERjNF",
+    "snippet": {
+      "publishedAt": "2022-04-07T05:20:31Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Cassidy Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G9QRubz1jRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G9QRubz1jRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G9QRubz1jRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G9QRubz1jRo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G9QRubz1jRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 961,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "G9QRubz1jRo"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JAR_L5rtzLqPmZYS0LcgWz6dPxU",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43RjY4RDQzNzA4QTJEQTVB",
+    "snippet": {
+      "publishedAt": "2022-04-07T03:52:58Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Silver Ana Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vbq0A_CuQUU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vbq0A_CuQUU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vbq0A_CuQUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vbq0A_CuQUU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Vbq0A_CuQUU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 960,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Vbq0A_CuQUU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JkX9uXtu2u9lyPPxc9sqJuy7CmA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5DNjI0QjUyN0NFRTNCOUIw",
+    "snippet": {
+      "publishedAt": "2022-04-07T03:52:37Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Sigma Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kmCfx8WHB4g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kmCfx8WHB4g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kmCfx8WHB4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kmCfx8WHB4g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kmCfx8WHB4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 959,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kmCfx8WHB4g"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "rMmt2qYKN22Xex_KLbTHbIQ2JHs",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4wMDYzRUE0RkFFOTdBRTgy",
+    "snippet": {
+      "publishedAt": "2022-04-06T22:03:39Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Mercy Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZxMZYEcj6C4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZxMZYEcj6C4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZxMZYEcj6C4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZxMZYEcj6C4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZxMZYEcj6C4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 958,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZxMZYEcj6C4"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "6RwjQV3sVfYQilapOZuipi9150c",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5EQTRFODZENkUxQTRDQjlD",
+    "snippet": {
+      "publishedAt": "2022-04-04T04:29:27Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat ESCAPE Artist D.Va makes Hog RAGE",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IfJ61k0mamI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IfJ61k0mamI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IfJ61k0mamI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IfJ61k0mamI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IfJ61k0mamI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 957,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IfJ61k0mamI"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "OcoEFPnIvo5mcXD_IeQ496pbRcA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zOEU3Qjg0NEQyRkQ1ODQw",
+    "snippet": {
+      "publishedAt": "2022-04-03T23:05:09Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold DVA Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ANI_l_8ePKM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ANI_l_8ePKM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ANI_l_8ePKM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ANI_l_8ePKM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ANI_l_8ePKM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 956,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ANI_l_8ePKM"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "p2-2pyhNQy99acL2il-_VZKWF6I",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xMUQyQzMyQkFBQjk2QTIw",
+    "snippet": {
+      "publishedAt": "2022-04-02T21:58:36Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Ana Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L8mMqp0H7sU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L8mMqp0H7sU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L8mMqp0H7sU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L8mMqp0H7sU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L8mMqp0H7sU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 955,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L8mMqp0H7sU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ahloVTOhjuI-DkljFqe71qXm5cw",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yQjEyNDZBOEYzRUNBRTMw",
+    "snippet": {
+      "publishedAt": "2022-03-30T08:43:30Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Ana Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/42dJDth62BU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/42dJDth62BU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/42dJDth62BU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/42dJDth62BU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/42dJDth62BU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 954,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "42dJDth62BU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MX2giLQfdtmLwqtTYtXADyum4-A",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5ENzMzOUM3RjUzMUQxNDE4",
+    "snippet": {
+      "publishedAt": "2022-03-25T21:15:59Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Pick On Isolated Targets Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TPxPpQU95Zk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TPxPpQU95Zk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TPxPpQU95Zk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TPxPpQU95Zk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TPxPpQU95Zk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 953,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TPxPpQU95Zk"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "lQBZBZ1Bk9BRmmq_1l4aB3QaE9s",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xQTlCRURGNEY0QUEyODdD",
+    "snippet": {
+      "publishedAt": "2022-03-25T01:00:15Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Silver Brig/Mercy Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9clHJrXPUpI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9clHJrXPUpI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9clHJrXPUpI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9clHJrXPUpI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9clHJrXPUpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 952,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9clHJrXPUpI"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "RofU4-Qp0Hh2QiM0iJijhKHna_4",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci42OTMwOTQzM0Q0ODU3QkFC",
+    "snippet": {
+      "publishedAt": "2022-03-24T23:13:27Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Stop Ending Meme Fights Early Gold \"For the Memes\" Mercy",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7HoAg7NbXn0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7HoAg7NbXn0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7HoAg7NbXn0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7HoAg7NbXn0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7HoAg7NbXn0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 951,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7HoAg7NbXn0"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "XC8mgkoKAxnz51SUUaKZFoEhnq0",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci42NkFGQTA3RkMxNkU5Q0VG",
+    "snippet": {
+      "publishedAt": "2022-03-23T00:26:43Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Is Your Team Ready Brown Esports?",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uHjo5PG8vWU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uHjo5PG8vWU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uHjo5PG8vWU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uHjo5PG8vWU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uHjo5PG8vWU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 950,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uHjo5PG8vWU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "0ecf31r67v12A0lOItwQcbtRc88",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci40ODY0OTA5MTgwMzAzRjI0",
+    "snippet": {
+      "publishedAt": "2022-03-21T21:38:27Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Sombra Isn't a 1v1 Bot",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_nnFQ8CLkTI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_nnFQ8CLkTI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_nnFQ8CLkTI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_nnFQ8CLkTI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_nnFQ8CLkTI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 949,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_nnFQ8CLkTI"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "06J1V88yHlz4tGtW-eKxSD00VlA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GNDFDMEUwN0U3QUEyNDFC",
+    "snippet": {
+      "publishedAt": "2022-03-20T20:32:30Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Kite Path Matches Friendly Agression Plat Sigma",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P4qXUA6Bv8E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P4qXUA6Bv8E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P4qXUA6Bv8E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P4qXUA6Bv8E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P4qXUA6Bv8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 948,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "P4qXUA6Bv8E"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "NReeQZwwlOv-STAcalRVKVEQYoM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5FODM4MDQ2REJGRTVCMkYx",
+    "snippet": {
+      "publishedAt": "2022-03-19T22:00:27Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Zarya Wants Small Off Angles NOT Full Flanks",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lLjUW85F5j4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lLjUW85F5j4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lLjUW85F5j4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lLjUW85F5j4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lLjUW85F5j4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 947,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lLjUW85F5j4"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "j777LumVN12oViirk7YbZowo_LU",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43OUREOTFGOTE4OURGQjlC",
+    "snippet": {
+      "publishedAt": "2022-03-18T00:40:15Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Brawl's Poke Beats 6 Man Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AV9yinp28SY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AV9yinp28SY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AV9yinp28SY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AV9yinp28SY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AV9yinp28SY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 946,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AV9yinp28SY"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "38tHu2N2AjofGU899oqDzNLIXQc",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yQkIyNjJCOEU4N0JCNTQ5",
+    "snippet": {
+      "publishedAt": "2022-03-16T22:03:17Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Master The Off Angles Masters Cassidy",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gW_LM1fZrLw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gW_LM1fZrLw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gW_LM1fZrLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gW_LM1fZrLw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gW_LM1fZrLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 945,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gW_LM1fZrLw"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MhROUiXodEaIkP6REDWYtwjqwZw",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci41NTg4RjdGODdDOTQxREE3",
+    "snippet": {
+      "publishedAt": "2022-03-13T19:11:29Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Rein + Zarya Duo Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nGDh_L566Uc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nGDh_L566Uc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nGDh_L566Uc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nGDh_L566Uc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nGDh_L566Uc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 944,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nGDh_L566Uc"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "gHbgOOtbxvl8I3lR3fu_gcVSdwM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GRDg4Qzg2RUFCNEVBNzY1",
+    "snippet": {
+      "publishedAt": "2022-03-12T19:09:09Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Brig Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DWaC3egmmPs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DWaC3egmmPs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DWaC3egmmPs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DWaC3egmmPs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DWaC3egmmPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 943,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DWaC3egmmPs"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "cjlAlIUMNOkp7j8ubTrrPApiTCY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yMUU0Mzk5MUM3MURCQzEx",
+    "snippet": {
+      "publishedAt": "2022-03-12T04:00:42Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Ana Ego VOD Review?",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NhJ5XoXDPjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NhJ5XoXDPjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NhJ5XoXDPjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NhJ5XoXDPjM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NhJ5XoXDPjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 942,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NhJ5XoXDPjM"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WmbW-YEDdM4WyneQ1ecWTCm9p-k",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GQkUyQkM5MDg2RUIwNjhE",
+    "snippet": {
+      "publishedAt": "2022-03-12T01:04:14Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Winston Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YK8rMHbdJ2I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YK8rMHbdJ2I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YK8rMHbdJ2I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YK8rMHbdJ2I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YK8rMHbdJ2I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 941,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YK8rMHbdJ2I"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "hcCujzYdqZIEUenon6o8MZK4KxM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5CRkM3ODAzMUQwNDBGMjFD",
+    "snippet": {
+      "publishedAt": "2022-03-11T22:03:21Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Hog Is Weird For Brown Esports Dive Team to Handle",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VcXxOaI_x8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VcXxOaI_x8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VcXxOaI_x8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VcXxOaI_x8w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VcXxOaI_x8w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 940,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VcXxOaI_x8w"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "oKA9P7z6RYIEWlI24tQC1dKP3Fk",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5CMTBCQjMwRDIyREJBRTUz",
+    "snippet": {
+      "publishedAt": "2022-03-11T01:04:57Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Bap Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mBAks7do5oE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mBAks7do5oE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mBAks7do5oE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mBAks7do5oE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mBAks7do5oE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 939,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mBAks7do5oE"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "leTcerhfh08EdfvuQmFU3uj-TEw",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xMjNBNTA2NDBDODU0QTE1",
+    "snippet": {
+      "publishedAt": "2022-03-10T20:57:49Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Rein Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6y01ETTAiJo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6y01ETTAiJo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6y01ETTAiJo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6y01ETTAiJo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6y01ETTAiJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 938,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6y01ETTAiJo"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "RR8clDr1zTJFAMZijWuc5uNjlWI",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xMzg4REIxQkQ3QUQ1QTI2",
+    "snippet": {
+      "publishedAt": "2022-03-10T01:20:56Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "1v4 Isn't Fun Masters Cassidy",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1NHG9BiMlKs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1NHG9BiMlKs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1NHG9BiMlKs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1NHG9BiMlKs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1NHG9BiMlKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 937,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1NHG9BiMlKs"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "cjP83LxavUuziG9grcBwE3YWGVs",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5BOTI5MzhDRUEyNkVFNEYx",
+    "snippet": {
+      "publishedAt": "2022-03-09T22:06:46Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Wrecking Ball Is NOT A Shield Wall",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9uQlmxphEFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9uQlmxphEFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9uQlmxphEFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9uQlmxphEFA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9uQlmxphEFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 936,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9uQlmxphEFA"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "0XD6kEgtAdi9KuFbEeOI4nakXnc",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5BNjRDNzIxOEJEQTI1RTJE",
+    "snippet": {
+      "publishedAt": "2022-03-08T22:02:31Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat DVA Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jh--TCqRG00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jh--TCqRG00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jh--TCqRG00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jh--TCqRG00/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jh--TCqRG00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 935,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Jh--TCqRG00"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Xcj05j9h9zl5pXRpDG2qyJMoDkw",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci41RUJCMkQ1ODk1RkI4NDg1",
+    "snippet": {
+      "publishedAt": "2022-03-08T20:51:59Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Figure Out Where Next Fight Will Be IMMEDIATLY Masters Ana",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zwEsUHwU5EM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zwEsUHwU5EM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zwEsUHwU5EM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zwEsUHwU5EM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zwEsUHwU5EM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 934,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zwEsUHwU5EM"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "rlTEIU5JjhXeLDK_LWxo33REu9I",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zNzk3QTg4RDNERkZERTRD",
+    "snippet": {
+      "publishedAt": "2022-03-07T22:20:44Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Dive Has a TARGET Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O8XaaqOJnfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O8XaaqOJnfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O8XaaqOJnfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O8XaaqOJnfU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O8XaaqOJnfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 933,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "O8XaaqOJnfU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "79qum-GvXFI15281-5-4OsPzQ-Q",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xMkNEOUJGNjkxQUVFNzhC",
+    "snippet": {
+      "publishedAt": "2022-03-05T22:57:14Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Masters DVA Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OOLrWXeuVT0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OOLrWXeuVT0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OOLrWXeuVT0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OOLrWXeuVT0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OOLrWXeuVT0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 932,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OOLrWXeuVT0"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "zBK-21LWl1vvd9EWOED6bmqWOe0",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5ENzhBQUFBNjM0ODg5NTQ2",
+    "snippet": {
+      "publishedAt": "2022-03-04T06:46:36Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Cut Out That JUMPING Placement Cassidy",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k_KNQA0JFrw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k_KNQA0JFrw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k_KNQA0JFrw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k_KNQA0JFrw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k_KNQA0JFrw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 931,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k_KNQA0JFrw"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "rpj7yyyY5fX42DLHtpEZuk_HWdM",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci44NDQ0ODQzQkZFRDhCNTY1",
+    "snippet": {
+      "publishedAt": "2022-03-04T05:48:14Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Flight Is NOT Always Dive Diamond Echo",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/exS35-iSIG0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/exS35-iSIG0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/exS35-iSIG0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/exS35-iSIG0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/exS35-iSIG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 930,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "exS35-iSIG0"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZZblqpD-aSstOw82aIlspFGFuzc",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci43QTgwNkVDN0IwQTNFQ0U2",
+    "snippet": {
+      "publishedAt": "2022-03-01T05:02:37Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Decisive Dives Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fgz7XDHZAoo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fgz7XDHZAoo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fgz7XDHZAoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fgz7XDHZAoo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fgz7XDHZAoo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 929,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fgz7XDHZAoo"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "-na1b-wbXna-OQlPImTOcgxePm0",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xNjE4ODZEMjBFQzc0RkEx",
+    "snippet": {
+      "publishedAt": "2022-02-28T04:20:24Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Rock Climbing Better Than Dancing Diamond Lucio",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fCISSzadxsU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fCISSzadxsU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fCISSzadxsU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fCISSzadxsU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fCISSzadxsU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 928,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fCISSzadxsU"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ulwHJaB5cb6JIW8EOWATLS3Zx2g",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5EREQyMEQ5MzIwMDNGOUM1",
+    "snippet": {
+      "publishedAt": "2022-02-27T17:38:37Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Team Is A Wall Plat Zen",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0mlORrBaNRk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0mlORrBaNRk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0mlORrBaNRk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0mlORrBaNRk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0mlORrBaNRk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 927,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0mlORrBaNRk"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KWM0BBS8LKkOKXqMtj_WEG-kcoc",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci41NDZEMjZGRkVBMkIxQThE",
+    "snippet": {
+      "publishedAt": "2022-02-27T00:50:00Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Mentaly Flag Flankers Plat DVA",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VMMvvWA8zic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VMMvvWA8zic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VMMvvWA8zic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VMMvvWA8zic/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VMMvvWA8zic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 926,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VMMvvWA8zic"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "E5-R2gFX8A2oAQ2NrDVkPoovkgA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xMjA2MDU4QzgxRUI5NDQ5",
+    "snippet": {
+      "publishedAt": "2022-02-25T07:19:45Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "He Shatters Under Pressure Masters Reinhardt",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-pa9p1fFoqk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-pa9p1fFoqk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-pa9p1fFoqk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-pa9p1fFoqk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-pa9p1fFoqk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 925,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-pa9p1fFoqk"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "T4j_L5sgJpDLN1IvXMYP0c-U9vk",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GQjE4NTgzNjg4QTA2RkZB",
+    "snippet": {
+      "publishedAt": "2022-02-24T20:05:33Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Climb Back From Bronze Mercy!",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bwu-YfVvYgc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bwu-YfVvYgc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bwu-YfVvYgc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bwu-YfVvYgc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bwu-YfVvYgc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 924,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Bwu-YfVvYgc"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "wL3IV5BDpziZmU8bRsv4YKigPSY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zQkMyMTUxODFGRTQ0RTVC",
+    "snippet": {
+      "publishedAt": "2022-02-22T19:15:15Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "GM Zen Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hh0xPE4fobA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hh0xPE4fobA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hh0xPE4fobA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hh0xPE4fobA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hh0xPE4fobA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 923,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hh0xPE4fobA"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ghpHk0RdfBiQRxH6LR9T7j2G-68",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zMUU2NkVEOUQ2RTg3RDM5",
+    "snippet": {
+      "publishedAt": "2022-02-20T06:54:32Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Sigma Really Is The Off Angle Hero, Even On Ladder",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xPugoLE4M8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xPugoLE4M8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xPugoLE4M8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xPugoLE4M8I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xPugoLE4M8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 922,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xPugoLE4M8I"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "RLJb-zeD5JboyysEafh0wrlmC14",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5BRDU2RkY0MUEzQjVBMDg4",
+    "snippet": {
+      "publishedAt": "2022-02-20T06:52:48Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Go VERTICAL to Scout Masters Lucio",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LtzZPuQWGs0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LtzZPuQWGs0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LtzZPuQWGs0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LtzZPuQWGs0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LtzZPuQWGs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 921,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LtzZPuQWGs0"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jwAh7YfEHvHnwzHa9QvsPde0UXA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5BMjk2QjQwOEE4OTdFMEJG",
+    "snippet": {
+      "publishedAt": "2022-02-20T06:50:15Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Lanes Wins Ball Mirrors Brown Esports",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SAUJIsIWRUg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SAUJIsIWRUg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SAUJIsIWRUg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SAUJIsIWRUg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SAUJIsIWRUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 920,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SAUJIsIWRUg"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Er2K48Lw2cfB-NOE35J9ikmrMh8",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci44OTg1NjJEQjE3MDE1NDk2",
+    "snippet": {
+      "publishedAt": "2022-02-18T19:07:54Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Tank Duo Review (The OP Synergy)",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mR6ZOwJi_3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mR6ZOwJi_3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mR6ZOwJi_3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mR6ZOwJi_3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mR6ZOwJi_3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 919,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mR6ZOwJi_3I"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "qi1RsNBnG9wFMOJjlGwqebfoyNY",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci40QzlBOUIzQjA2MTg3RDYz",
+    "snippet": {
+      "publishedAt": "2022-02-17T03:04:12Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Gold Rein WTF Are you Doing",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0isbEfAfkeY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0isbEfAfkeY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0isbEfAfkeY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0isbEfAfkeY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0isbEfAfkeY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 918,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0isbEfAfkeY"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "9tO20KBzRn0-L66N0QMLi6ZboF4",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5FNTlGQUZCQTc4RjM3REMx",
+    "snippet": {
+      "publishedAt": "2022-02-14T23:01:29Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Bronze Reinhardt Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wmU5dKyrdik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wmU5dKyrdik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wmU5dKyrdik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wmU5dKyrdik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wmU5dKyrdik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 917,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wmU5dKyrdik"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "diBNE-nJqGwPKlyfMcYvfHnF_AE",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5DRTEyMDJEREM4NDg4NTk4",
+    "snippet": {
+      "publishedAt": "2022-02-13T22:18:30Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Pharah Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NFGNn40bhmI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NFGNn40bhmI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NFGNn40bhmI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NFGNn40bhmI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NFGNn40bhmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 916,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NFGNn40bhmI"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MW4TT7xPJaYhpVOHcnC_DNSq3BU",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yMjZDNERERTg3NUY0ODk3",
+    "snippet": {
+      "publishedAt": "2022-02-13T07:04:10Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Coach Coaching 4300",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N2MeCHgFx0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N2MeCHgFx0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N2MeCHgFx0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N2MeCHgFx0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N2MeCHgFx0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 915,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N2MeCHgFx0w"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "wT12--qn__ueUjV6vRrF3j13uxQ",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci42OTI2RTI0NTQyNTNBQzBB",
+    "snippet": {
+      "publishedAt": "2022-02-08T09:37:39Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Backline Has To Kite The Brawl Brown",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bUmTWT24uhs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bUmTWT24uhs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bUmTWT24uhs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bUmTWT24uhs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bUmTWT24uhs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 914,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bUmTWT24uhs"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZwhNvz0d0iZlp8uh04VJ7gz6_EA",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5BREZCNzgxNEQ3MkY5Qzk1",
+    "snippet": {
+      "publishedAt": "2022-02-08T09:36:25Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Get Out Of The Frontline Plat Bap",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jkvH9QzH20I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jkvH9QzH20I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jkvH9QzH20I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jkvH9QzH20I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jkvH9QzH20I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 913,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jkvH9QzH20I"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xNyuh9TCnrUV88XY7Oy7zGlktYI",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5GRTk4M0ZCN0FDMDIyNTc4",
+    "snippet": {
+      "publishedAt": "2022-02-07T21:05:50Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Diamond Sigma Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rGdNUwao914/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rGdNUwao914/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rGdNUwao914/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rGdNUwao914/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rGdNUwao914/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 912,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rGdNUwao914"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "rzmtJ9vZEsuyxksKY0OM_ic1Fio",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci5FQ0IzMzJEMEFCMEY1OEIy",
+    "snippet": {
+      "publishedAt": "2022-02-06T09:19:25Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Don't Let Them Know You're Coming Masters Tracer",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/noVbJ9oIPis/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/noVbJ9oIPis/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/noVbJ9oIPis/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/noVbJ9oIPis/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/noVbJ9oIPis/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 911,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "noVbJ9oIPis"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "hbs14VqsG4ilOoss9TPiD0Pel8I",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4yNzcwMDU3MUU2OTQzRDFE",
+    "snippet": {
+      "publishedAt": "2022-02-03T09:08:31Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Map Is Just Pieces Of Cover To Move Between Diamond Zen",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kww0kj7w7N0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kww0kj7w7N0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kww0kj7w7N0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kww0kj7w7N0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kww0kj7w7N0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 910,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kww0kj7w7N0"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "e-_Oh1JW7cjEI-TOoE-sMLvRzZI",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zQUM1MkJDNzVFMjgyRkUy",
+    "snippet": {
+      "publishedAt": "2022-02-02T00:50:42Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Answer Angles Win Games Gold Brawl Team",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NBrdYvY0UXA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NBrdYvY0UXA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NBrdYvY0UXA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NBrdYvY0UXA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NBrdYvY0UXA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 909,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NBrdYvY0UXA"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "CU8G3jB5eUp1Wk4yHQg2uFhglts",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4xNThDNUQxQ0UyQUQyODNG",
+    "snippet": {
+      "publishedAt": "2022-01-30T20:29:51Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Taking Over Games In Silver As Mercy?",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c2UKR7MVWtg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c2UKR7MVWtg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c2UKR7MVWtg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c2UKR7MVWtg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c2UKR7MVWtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 908,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c2UKR7MVWtg"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "9UzHoDnfFmpTHhvriMKVIV-47j4",
+    "id": "UExpSEJVY1FQOU5sNHpPN2Nla0F6RlMtRlUwZmkzQTNHci4zMUM0MDlGOTIwMUIxOURB",
+    "snippet": {
+      "publishedAt": "2022-01-28T03:54:18Z",
+      "channelId": "UCcX7pakiWyBvFq15Vtb87wg",
+      "title": "Plat Zen Review",
+      "description": "Temporal's coaching discord is live \nCash App Referral Link:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ExbJPQ-gwyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ExbJPQ-gwyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ExbJPQ-gwyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ExbJPQ-gwyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ExbJPQ-gwyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Temporal",
+      "playlistId": "PLiHBUcQP9Nl4zO7cekAzFS-FU0fi3A3Gr",
+      "position": 907,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ExbJPQ-gwyQ"
+      },
+      "videoOwnerChannelTitle": "Temporal",
+      "videoOwnerChannelId": "UCcX7pakiWyBvFq15Vtb87wg"
+    }
+  }
+]

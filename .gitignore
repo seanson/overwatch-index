@@ -3,6 +3,8 @@ __pycache__
 .env
 .client_secret.json
 .token.pickle
-*results*.json
+results.json
+hero_results.json
+sorted_results.json
 dist
 .vscode
