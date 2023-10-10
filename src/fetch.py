@@ -3,11 +3,12 @@
 
 import os
 import json
+import youtube
 
 from dotenv import load_dotenv
+
 load_dotenv()
 
-import youtube
 
 def main():
     client = youtube.youtube_auth_apikey()
