@@ -1,18 +1,16 @@
 import os
 
-import google_auth_oauthlib.flow
-import google.auth.transport.requests
 import googleapiclient.discovery
 import googleapiclient.errors
+
 
 # TODO: Given YouTube requires a stateful client init this probably merits a helper class
 def youtube_auth_apikey():
     api_service_name = "youtube"
     api_version = "v3"
     developerKey = os.environ.get("GOOGLE_API_KEY")
-    return googleapiclient.discovery.build(
-        api_service_name, api_version, developerKey=developerKey
-    )
+    return googleapiclient.discovery.build(api_service_name, api_version, developerKey=developerKey)
+
 
 def fetch_playlist_items(youtube, playlist_id, max_results=250):
     request = youtube.playlistItems().list(

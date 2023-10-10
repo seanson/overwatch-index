@@ -59,16 +59,8 @@ heroes = {
         "class": "dps",
         "matches": ["doom", "fist", "doomfist"],
     },
-    "echo": {
-        "name": "Echo",
-        "icon": ["fas", "clone"],
-        "class": "dps",
-        "matches": ["echo"]},
-    "genji": {
-        "name": "Genji",
-        "icon": ["fas", "star"],
-        "class": "dps", "matches": ["genji"]
-        },
+    "echo": {"name": "Echo", "icon": ["fas", "clone"], "class": "dps", "matches": ["echo"]},
+    "genji": {"name": "Genji", "icon": ["fas", "star"], "class": "dps", "matches": ["genji"]},
     "hanzo": {"name": "Hanzo", "icon": ["fas", "redo"], "class": "dps", "matches": ["hanzo"]},
     "junkrat": {
         "name": "Junkrat",
@@ -264,14 +256,14 @@ def sort_by_time(results):
 def main():
     results_path = os.environ.get("YOUTUBE_RESULTS_JSON", "results.json")
     results = parse_results(results_path)
-    search_data = generate_search_data(results)
+    generate_search_data(results)
     sorted_results = sort_by_time(results)
     env = Environment(loader=FileSystemLoader("templates/"))
     template = env.get_template("index.html.jinja2")
     template.globals["now"] = datetime.now().strftime("%Y-%m-%d %H:%M")
     template.globals["rank_to_colour"] = rank_to_colour
 
-    renders = ["index"] + list(results["heroes"].keys()) + list(ranks)
+    ["index"] + list(results["heroes"].keys()) + list(ranks)
     if not os.path.isdir("dist"):
         os.mkdir("dist")
     with open("hero_results.json", "w") as json_file:
