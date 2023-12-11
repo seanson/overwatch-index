@@ -5,7 +5,7 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.0.292"
+ruff = "^0.1.7"
 google-api-python-client-stubs = "^1.18.0"
 
 [tool.black]
